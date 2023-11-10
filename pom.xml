@@ -11,7 +11,7 @@
   <distributionManagement>
     <repository>
       <id>github</id>
-      <name>eryanph</name>
+      <name>Github Packages</name>
       <url>https://maven.pkg.github.com/eryanph/sample-dependency</url>
     </repository>
   </distributionManagement>
