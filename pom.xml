@@ -8,6 +8,14 @@
   <artifactId>sample-dependency</artifactId>
   <version>1.0</version>
 
+  <distributionManagement>
+    <repository>
+      <id>github</id>
+      <name>eryanph</name>
+      <url>https://maven.pkg.github.com/eryanph/sample-dependency</url>
+    </repository>
+  </distributionManagement>
+
   <name>sample-dependency</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
